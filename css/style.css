@@ -1,0 +1,121 @@
+body
+{    
+    background-color: #F5F7FA;
+    margin: 0px;
+}
+
+
+.main_container {
+	display: flex;
+    flex-direction: row-reverse;
+    width: 920px;
+    background-color: #fff;
+    margin: 0px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.main_container_section {
+	padding: 10px 40px 70px 40px;	
+}
+
+.photo {	
+	height: 300px;
+}
+
+img {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+
+.main_container_section2 {
+	padding: 10px 40px 170px 40px;
+	background-color: #cbc4b6;
+	border: none;
+	margin: 0px;
+	color: rgb(60, 60, 60);
+	font-size: 14px;
+	height: 1000px;
+}
+
+.contacts_bold {
+	color: black;
+}
+
+.sidebar_headers {
+	color: black;
+	font-size: 30px;
+}
+.about_me {
+	text-align: center;
+	color: rgb(60, 60, 60);
+	margin-bottom: 0px;
+	padding-bottom: 10px;
+}
+
+.developer_name {	
+	color: rgb(60, 60, 60);
+	font-size: 25px;
+	text-align: center;	
+	margin: 10px;
+}
+
+.headers {
+	background-color: #b4b4b4;
+	color: white;
+	height: 10px;
+	width: 250px;
+	text-align: center;
+	padding: 10px;
+	margin: 10px 20px 10px 0px;
+	font-size: 14px;
+}
+
+
+.university {
+	color: rgb(60, 60, 60);
+	font-size: 18px;
+}
+
+.profeccion {
+	color: rgb(60, 60, 60);
+	font-size: 16px;
+}
+
+.coursework {
+	font-size: 14px;
+	margin-bottom: 3px;
+}
+
+
+.courseworks {
+	border-bottom: 1px solid #b4b4b4;
+	font-size: 14px;
+	margin-top: 7px;
+}
+.summary_info {
+	text-align: justify;
+	font-size: 14px;
+	line-height: 1.2;
+}
+
+.stack {
+	font-size: 14px;
+	margin-top: 5px;
+	line-height: 1.2;
+}
+
+#work_experience {
+	font-size: 14px;
+}
+
+.list {
+	margin-top: 5px;
+	font-size: 14px;
+}
+
+.certificates {
+	font-size: 14px;
+}
+
+
